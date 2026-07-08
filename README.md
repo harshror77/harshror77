@@ -74,7 +74,7 @@
 ### 📫 Connect with me
 
 <p align="left">
-  <a href="https://leetcode.com/u/harshror77/" target="_blank">
+  <a href="https://leetcode.com/u/vardhan_harshh/" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="leetcode"/>
   </a>
 </p>
